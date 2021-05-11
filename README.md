@@ -10,3 +10,8 @@ FootballManager, C++
 ## 선수데이터를 저장해두면 저장된 선수(사람)데이터를 이용해
 ## 선호하는 포메이션을 입력하면 보유 데이터중 가장 강한 스쿼드를 자동으로 완성해주는 기능
 
+![FM_구조](https://user-images.githubusercontent.com/34766471/117855423-6fdd2f00-b2c5-11eb-9179-400df5b5f069.png)
+
+![슬라이드3](https://user-images.githubusercontent.com/34766471/117855648-a61aae80-b2c5-11eb-9a19-dc1f7bda7b88.JPG)
+
+## 구동영상 폴더 안에 有
